@@ -1,2 +1,2 @@
 # Calculadora_IMC
- Está aplicação tem a finalidade de mostrar o IMC para o usuário
+ Esta aplicação tem a finalidade de mostrar o IMC para o usuário
