@@ -6,7 +6,7 @@ function calcularimc(){
     let img = document.getElementById('img');
 
     let imc = peso / (altura * altura).toFixed(2);
-                                       //parametro para quantidade de casas decimais
+    
     if( imc >= 0 && imc < 18.5){
         img.src = 'img/magro.png'
         document.body.style.background = '#5bd9ab' 
