@@ -15,7 +15,6 @@ function calcularimc() {
         if (imc >= faixa[0] && imc < faixa[1]) {
             img.src = imagens[i];
             document.body.style.background = getBackgroundColor(i);
-            break;
         }
     }
 }
